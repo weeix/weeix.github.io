@@ -3,7 +3,7 @@ layout: post
 title: เปลี่ยนมาทำเว็บด้วยโฮสต์ฟรี
 date: 2015-06-18 22:10:36 +0700
 categories:
-- อินเทอร์เน็ต
+- internet
 tags:
 - cloud computing
 - iaas

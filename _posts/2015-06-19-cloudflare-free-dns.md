@@ -3,7 +3,7 @@ layout: post
 title: 'Cloudflare: บริการ DNS ฟรี'
 date: 2015-06-19 21:02:23 +0700
 categories:
-- อินเทอร์เน็ต
+- internet
 tags:
 - cloud computing
 - paas

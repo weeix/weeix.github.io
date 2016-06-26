@@ -3,7 +3,7 @@ layout: post
 title: 'Cloudflare: ชี้โดเมนของเราไปที่ Microsoft Azure'
 date: 2015-06-29 21:36:19 +0700
 categories:
-- อินเทอร์เน็ต
+- internet
 tags:
 - cloud computing
 - iaas

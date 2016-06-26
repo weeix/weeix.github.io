@@ -3,7 +3,7 @@ layout: post
 title: 'Microsoft Azure: แนะนำคลาวด์จากผู้ให้บริการที่เราคุ้นเคย'
 date: 2015-07-01 21:57:50 +0700
 categories:
-- อินเทอร์เน็ต
+- internet
 tags:
 - cloud computing
 - iaas

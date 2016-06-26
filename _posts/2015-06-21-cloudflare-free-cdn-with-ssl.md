@@ -3,7 +3,7 @@ layout: post
 title: 'Cloudflare: บริการ CDN พร้อม SSL ฟรี'
 date: 2015-06-21 20:45:10 +0700
 categories:
-- อินเทอร์เน็ต
+- internet
 tags:
 - paas
 - cloudflare

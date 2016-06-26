@@ -3,7 +3,7 @@ layout: post
 title: 'Microsoft Azure: สร้าง VM Ubuntu โดยใช้หน้าจัดการแบบเก่า'
 date: 2015-11-12 00:39:59 +0700
 categories:
-- อินเทอร์เน็ต
+- internet
 tags:
 - cloud computing
 - iaas
