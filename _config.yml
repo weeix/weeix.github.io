@@ -26,3 +26,4 @@ permalink: /:year/:month/:day/:title.html
 # Gems
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
