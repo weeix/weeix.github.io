@@ -4,6 +4,7 @@ title: 'Cloudflare: บริการ DNS ฟรี'
 date: 2015-06-19 21:02:23 +0700
 categories:
 - internet
+redirect_from: "/internet/2015/06/19/cloudflare-free-dns.html"
 tags:
 - cloud computing
 - paas

@@ -4,6 +4,7 @@ title: 'Cloudflare: ชี้โดเมนของเราไปที่ Mi
 date: 2015-06-29 21:36:19 +0700
 categories:
 - internet
+redirect_from: "/internet/2015/06/29/cloudflare-azure-custom-domain-name.html"
 tags:
 - cloud computing
 - iaas

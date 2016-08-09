@@ -4,6 +4,7 @@ title: 'Cloudflare: บริการ CDN พร้อม SSL ฟรี'
 date: 2015-06-21 20:45:10 +0700
 categories:
 - internet
+redirect_from: "/internet/2015/06/21/cloudflare-free-cdn-with-ssl.html"
 tags:
 - paas
 - cloudflare

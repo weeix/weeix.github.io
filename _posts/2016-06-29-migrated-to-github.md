@@ -4,6 +4,7 @@ title: ทำเว็บฟรีบน GitHub Page
 date: 2016-06-29 21:10:36 +0700
 categories:
 - internet
+redirect_from: "/internet/2016/06/29/migrated-to-github.html"
 tags:
 - github
 ---
