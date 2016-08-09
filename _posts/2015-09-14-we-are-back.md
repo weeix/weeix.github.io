@@ -4,7 +4,9 @@ title: กลับมา​แล้ว​
 date: 2015-09-14 02:17:11 +0700
 categories:
 - news
-redirect_from: "/news/2015/09/13/we-are-back.html"
+redirect_from:
+- /news/2015/09/13/we-are-back.html
+- /news/2015/09/14/we-are-back.html
 ---
 หลังจากที่​เงียบ​หาย​ไป​นาน​ นาน​จนลืมไปว่าครบกำหนด 2 เดือน​ของช่วงทดลองใช้ [Google​ Cloud](https://cloud.google.com) ไปแล้ว ทำให้​เว็บไซต์​หาย​ไป​ใน​บัดดล​ 555
 
