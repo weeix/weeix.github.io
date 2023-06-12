@@ -1,10 +1,10 @@
 ---
 title: Jekyll ต่างจาก WordPress ยังไง ควรใช้ไหม
-date: 2022-06-12 22:47:00 +0700
+date: 2023-06-12 22:47:00 +0700
 categories: [เทคโนโลยี, เว็บไซต์]
 tags: [jekyll, wordpress]     # TAG names should always be lowercase
 image:
-  path: /assets/img/2022/06/jekyll-vs-wordpress/01-jekyll-vs-wordpress.jpg
+  path: /assets/img/2023/06/jekyll-vs-wordpress/01-jekyll-vs-wordpress.jpg
   alt: ระหว่าง Jekyll และ WordPress ควรใช้อะไรดี
 ---
 
